@@ -28,7 +28,7 @@
      <string>充電ビュー</ string>
      <key> HIDE_BATTERY_VIEW </ key>
      <string>バッテリービューを非表示</ string>
-<key> HIDE_BATTERY_VIEW </ key>
+     <key> HIDE_BATTERY_VIEW </ key>
      <string>バッテリービューを非表示</ string>
      <key> PAGE_DOTS </ key>
      <string>ページドット</ string>
